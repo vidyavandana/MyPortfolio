@@ -9,7 +9,7 @@ export const siteConfig = {
     github: "https://github.com/vidyavandana",
   },
   aboutMe:
-    "I am a final-year B.Tech Computer Science student with hands-on experience in building full-stack applications using React, Node.js, and MongoDB. I have developed projects with REST APIs and payment integration, focusing on creating scalable and efficient software solutions. I also have a keen interest in AI/ML and am building my knowledge in this area to integrate intelligent features into future applications.",
+    "I am a final-year B.Tech Computer Science student with hands-on experience in building full-stack applications using React, Node.js, and MongoDB. I have developed projects with REST APIs and payment integration, focusing on creating scalable and efficient software solutions. I also have a keen interest in ML and am building my knowledge in this area to integrate intelligent features into future applications.",
   skills: ["JavaScript", "Html & CSS", "SQL", "Python", "MERN Stack", "Basics of AI & ML", "Tailwind CSS", "Java"],
   projects: [
     {

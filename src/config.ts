@@ -1,6 +1,6 @@
 export const siteConfig = {
   name: "Venkata Vidya Vandana",
-  title: "Full Stack Web Developer | AI Enthusiast",
+  title: "Full Stack Web Developer | Exploring Machine Learning",
   description: "Portfolio website of Venkata Vidya Vandana",
   accentColor: "#22d3ee",
   social: {

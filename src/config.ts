@@ -19,19 +19,19 @@ export const siteConfig = {
       skills: ["React", "Node.js", "MongoDB", "Tailwind CSS"],
     },
     {
-      name: "AI Resume Analyzer",
+      name: "HireSync",
       description:
-        "AI Resume Analyzer is a smart tool that evaluates resumes using NLP to extract key skills and experiences. It matches resumes with job requirements, highlights missing skills, and suggests improvements. Built with Python, Express, and MongoDB, it showcases how AI can be integrated with web technologies to solve real-world hiring challenges.",
+        "HireSync is an AI-powered resume analyzer that extracts skills, scores resumes, and matches candidates with job descriptions using NLP. It provides improvement suggestions and supports multi-resume shortlisting for recruiters. Built with React, FastAPI, and Node.js, it demonstrates practical AI integration in modern hiring workflows.",
       link: "https://github.com/vidyavandana/AI-Resume-Analyzer",
-      skills: ["React", "NLP", "Python", "MongoDB", "Express.js"],
+      skills: ["React", "FastAPI", "Node.js", "NLP", "Python", "MySQL"],
   },
   {
   name: "Fake News Detection",
   description:
-    "Developed a machine learning system to classify news articles as Fake or Real using metadata-based features (word count, punctuation frequency, uppercase usage) instead of NLP. Implemented and compared models like Random Forest, Logistic Regression, and XGBoost with evaluation metrics such as Accuracy, Precision, Recall, and F1 Score.",
+    "Built an NLP-powered machine learning model that classifies news articles as Fake or Real using TF-IDF vectorization. Performed text preprocessing (cleaning, normalization, regex filtering) and compared multiple ML algorithms including Logistic Regression, Decision Tree, Gradient Boosting, and Random Forest. Achieved over 99% accuracy with detailed evaluation using Precision, Recall, and F1 Score. Added a manual prediction module to test custom news inputs.",
   link: "https://github.com/vidyavandana/Fakenewsdetection",
-  skills: ["Python", "Scikit-Learn", "Pandas", "NumPy", "Matplotlib"]
-},
+  skills: ["Python", "Scikit-Learn", "NLP", "Pandas", "NumPy", "Matplotlib"]
+  },
 
   ],
   experience: [
@@ -52,7 +52,7 @@ export const siteConfig = {
       degree: "Bachelor of Technology in [CSE]",
       dateRange: "2022 - 2026",
        achievements: [
-      "CGPA: 8.87 / 10",
+      "CGPA: 8.82 / 10",
       "Coursework: DSA, OS, DBMS, CN",
       "Coordinator, Helping Hands Organization – led student and community initiatives",
     ],
